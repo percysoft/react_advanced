@@ -8,3 +8,6 @@ https://www.smooth-code.com/open-source/svgr/playground/
 
 # optimizar tu svg
 https://jakearchibald.github.io/svgomg/
+
+#Deploy de servicios
+https://zeit.co/
